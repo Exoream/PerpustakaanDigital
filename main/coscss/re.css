@@ -1,0 +1,26 @@
+body{
+    background-image: url(bg-login.jpg);
+    margin: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.all{
+    justify-content: center;
+    align-items: center;
+    margin-top: 9%;
+    margin-left: 36%;
+    width: 450px;
+    height: 550px;
+    padding: 30px;
+    background-color: white;
+}
+
+.login{
+    text-align: center;
+    margin-top: 15px;
+}
+
+#re{
+    text-decoration: none;
+}
